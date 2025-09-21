@@ -185,7 +185,7 @@ npm run test     # Run tests (if configured)
 
 **Keith Eyre**
 - Email: keith.eyre91@gmail.com
-- Live Demo: Coming soon (deploying to Firebase)
+- Live Demo: https://saas-template-96f0b.web.app
 
 ## 📄 License
 
