@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "base-project-17b33"
+  },
+  "targets": {
+    "base-project-17b33": {
+      "hosting": {
+        "main-site": [
+          "base-project-17b33"
+        ],
+        "saas-template": [
+          "saas-template-96f0b"
+        ]
+      }
+    }
+  }
+}
